@@ -3,7 +3,7 @@ title: Hello World
 date: 2021-09-05T22:57:08.303Z
 subtitle: This is the first tutorial which will make you familiar with the
   ReactJs and JSX syntax
-tags: ReactJS
+tags: reactjs
 ---
 
 
