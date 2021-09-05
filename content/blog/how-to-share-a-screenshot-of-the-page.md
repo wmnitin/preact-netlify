@@ -8,7 +8,7 @@ tags: technology, javascript
 ---
 **Lorem** ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales neque sodales ut etiam sit amet nisl purus in. Nunc sed augue lacus viverra vitae congue eu. At augue eget arcu dictum varius. Et ligula ullamcorper malesuada proin. Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Mauris in aliquam sem fringilla ut morbi tincidunt. In vitae turpis massa sed elementum tempus egestas. Neque gravida in fermentum et sollicitudin ac orci phasellus. Nibh praesent tristique magna sit amet purus gravida. Nibh sed pulvinar proin gravida hendrerit. Nibh tortor id aliquet lectus proin nibh nisl condimentum id. A iaculis at erat pellentesque adipiscing commodo elit at. At varius vel pharetra vel turpis nunc eget lorem. Ultrices in iaculis nunc sed augue. Senectus et netus et malesuada fames ac turpis egestas.
 
-<iframe src="https://codesandbox.io/embed/priceless-mountain-zsq0r?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark"
+<iframe src="https://codesandbox.io/embed/priceless-mountain-zsq0r?autoresize=1&fontsize=14&module=%2Fsrc%2FApp.js&moduleview=1&theme=dark&view=editor&view=preview"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="priceless-mountain-zsq0r"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
