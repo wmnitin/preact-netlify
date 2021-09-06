@@ -24,7 +24,7 @@ If you do **console.log(name)** , it will give **Hello World** output in both ab
 
 Now let's understand how you will create state and change the value and see how it will re-render the component to display the updated value.
 
-Play with the example below, try creating another state with different name.
+Play with the example below, try creating another state with different name or the name suggested above.
 
 <iframe src="https://codesandbox.io/embed/great-hooks-g1xhc?fontsize=14&hidenavigation=1&theme=dark&view=editor&view=preview"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
