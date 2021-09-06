@@ -20,7 +20,7 @@ If you do **console.log(name)** , it will give **Hello World** output in both ab
 >
 > **setName** is a function, that you will use to change the value of **name.**
 >
-> **useState** is a react function, which takes the initial value of state.
+> **useState** is a react function, which takes the initial value of state **name**.
 
 Now let's understand how you will create state and change the value and see how it will re-render the component to display the updated value.
 
